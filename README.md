@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Trying to be a dev in a world pushing against me.
+
+
 <!--
 **Cartrigger/Cartrigger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
