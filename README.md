@@ -1,8 +1,4 @@
-### Hi there 👋
-
-Trying to be a dev in a world pushing against me.
-
-
-🔭 I’m currently working on: Remembering
-<br>📫 How to reach me through Discord: cartri
-<br>😄 Pronouns: He/Him
+## Why are you here?
+<br>Just to suffer?
+<br>No, kidding, Cart's page, you can contact me on Discord under the username cartri
+<br>Somewhat trying to learn Java and moving away from JS (I hate it but I know it)
