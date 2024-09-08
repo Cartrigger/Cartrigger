@@ -1,5 +1,5 @@
-## Why are you here?
-<br>Just to suffer?
-<br>No, kidding, Cart's page, you can contact me on Discord under the username cartri
-<br>Somewhat trying to learn Java and moving away from JS (I hate it but I know it)
+## Welcome!
+<br>I am Cart, also known as Cartrigger.
+<br>Known in the Minecraft community as a server creator, and a commoner on random repos and Discord servers.
+<br>If you need to contact me, the fastest in on Discord via messages or pinging me. My username is Cartri.
 ![Cart's GitHub stats](https://github-readme-stats.vercel.app/api?username=cartrigger&show_icons=true&theme=dark)
