@@ -1,4 +1,5 @@
 ## Welcome!
+<br>**Canadian, eh 🇨🇦**
 <br>I am Cart, also known as Cartrigger.
 <br>Known in the Minecraft community as a server creator, and a commoner on random repos and Discord servers.
 <br>If you need to contact me, the fastest in on Discord via messages or pinging me. My username is Cartri.
